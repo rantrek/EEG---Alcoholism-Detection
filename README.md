@@ -8,15 +8,22 @@ To develop a AI/ML tool to detect alcoholism from EEG data utilizing EEG signal 
 
 The dataset can be downloaded from https://www.kaggle.com/nnair25/Alcoholics#
 
-##To do
+## To do
 1) Pre-processing (complete)
 2) Applying ML techniques (in progress)
 
 ## Program
 
 The code is developed in Python. 
-
+ 
 ## Libraries
+
+ - Pandas
+ - Matplotlib
+ - Numpy
+ - tqdm
+ - glob
+ - MNE tools for MEG and EEG signal processing (https://mne.tools/stable/index.html)
 
 
 
